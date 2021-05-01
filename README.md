@@ -1,6 +1,6 @@
 # IncomeTaxCalculatorAWS
 
-**IncomeTaxCalculator** is an **AWS Lambda Function** developed in Visual Studio 2019 using AWS Lambda Project Template. The main purpose of this function is to calculate the income tax one hase to pay based on a number of tax bands. The project has the following specifications:
+**IncomeTaxCalculator** is an **AWS Lambda Function** developed in Visual Studio 2019 using **AWS Lambda Project Template**. The main purpose of this function is to calculate the income tax one hase to pay based on a number of tax bands. The project has the following specifications:
 
 - the tax bands are stored in an **Amazon RDS SQL Server database**
   
