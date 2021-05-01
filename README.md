@@ -33,4 +33,4 @@
   
   ![image](https://user-images.githubusercontent.com/9264427/116780119-1c780f00-aa83-11eb-82c7-2fed2ea1c44f.png)
 
-  
+  **NOTE**: The response might be slower than expected, because I have used the Free Tier of AWS.
